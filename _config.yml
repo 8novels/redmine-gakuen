@@ -1,0 +1,17 @@
+title: Redmine女学園の事件簿！(仮題)
+author: 8amjp
+description: >
+  [学園モノ/連作短編]
+index: manual
+
+type: novel
+google_analytics: UA-41627578-3
+twitter:
+  username: 8amjp
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
